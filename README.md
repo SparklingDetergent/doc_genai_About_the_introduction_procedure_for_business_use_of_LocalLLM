@@ -1,6 +1,10 @@
 # doc_genai_About_the_introduction_procedure_for_business_use_of_LocalLLM
 ローカルLLMの業務利用導入手順について
 
+<br/><br/>
+<br/><br/>
+
+
 ## ローカルLLM導入手順書
 
 - [目次](#目次)
@@ -21,6 +25,10 @@
 - [6. フローチャート (mermaid構文)](#6-フローチャート-mermaid構文)
 - [7. 注意事項](#7-注意事項)
 - [補足](#補足)
+
+<br/><br/>
+<br/><br/>
+
 
 ### 1. 前提条件
 
