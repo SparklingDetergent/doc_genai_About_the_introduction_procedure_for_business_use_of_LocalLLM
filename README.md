@@ -1,0 +1,2 @@
+# doc_genai_About_the_introduction_procedure_for_business_use_of_LocalLLM
+ローカルLLMの業務利用導入手順について
